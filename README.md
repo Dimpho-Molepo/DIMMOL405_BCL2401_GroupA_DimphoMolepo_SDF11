@@ -25,27 +25,24 @@ Compile Tailwind CSS minified
 -Javascript
 
 ## Requirements
--Presentation Link: https://docs.google.com/presentation/d/1kQuYLDv3-Tmy537PXzJ_O4D5Alwz7-n91TUUwHdJalk/edit?usp=sharing
--Loom Video Link: https://www.loom.com/share/7d738ba074ee43eb95047090ef8da6ad?sid=e74b798c-089d-47ed-b85e-c01b4faa13a4
+### Presentation Link: 
+https://docs.google.com/presentation/d/1kQuYLDv3-Tmy537PXzJ_O4D5Alwz7-n91TUUwHdJalk/edit?usp=sharing
+### Loom Video Link: 
+https://www.loom.com/share/7d738ba074ee43eb95047090ef8da6ad?sid=e74b798c-089d-47ed-b85e-c01b4faa13a4
 
 ## Reflections
 
 ### Areas of Mastery
 
--We primarily used grid and flex to structure the page, which was easy to understand because we have experience from previous projects. -Tailwind requires basic understanding in HTML and CSS. The projects we have already completed provided the basics in HTML and CSS which made Tailwind better to understand. 
--Tailwind simplifies media queries by using built in responsive classes. 
+-We primarily used grid and flex to structure the page, which was easy to understand because we have experience from previous projects. Tailwind requires basic understanding in HTML and CSS. The projects we have already completed provided the basics in HTML and CSS which made Tailwind better to understand. Tailwind simplifies media queries by using built in responsive classes. 
 
 ### Challenges Faced
 
--The confusing part about doing this project is the number of div tags that was used.
--Not placing elements in the correct div can mess up sections of your project.
--Not closing some tags can also make the styling of the elements to be void.
--Spelling errors are also a big contributor to some of the elements not being styled as they should be.
+-The confusing part about doing this project is the number of div tags that was used. Not placing elements in the correct div can mess up sections of your project. Not closing some tags can also make the styling of the elements to be void. Spelling errors are also a big contributor to some of the elements not being styled as they should be.
 
 ### Areas for Improvement
 
--Paying more closely to opening and closing tags which can have a huge impact on the page layout and styling.
--Checking for spelling mistakes can also be improved.
+-Paying more closely to opening and closing tags which can have a huge impact on the page layout and styling. Checking for spelling mistakes can also be improved.
 
 ### Overall Learning Experience
 
